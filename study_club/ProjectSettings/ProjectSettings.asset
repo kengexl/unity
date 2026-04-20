@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: "\u7A03\u6866\u55B5"
   productName: study_club
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
